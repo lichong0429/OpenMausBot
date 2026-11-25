@@ -2,6 +2,8 @@
 
 # OpenMausBot
 
+**English** &nbsp;·&nbsp; [简体中文](README.zh-CN.md)
+
 **The open-source Grok Bot alternative: your own team of AI bots, in a chat app.**
 
 [**openmausbot.com**](https://www.openmausbot.com) &nbsp;·&nbsp; [Download](https://www.openmausbot.com/download) &nbsp;·&nbsp; [Open source Grok Bot alternative, compared](https://www.openmausbot.com/blog/grok-bot-vs-openmausbot)
